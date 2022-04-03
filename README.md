@@ -1,2 +1,2 @@
-# curso-em-video-php
-Aprendendo PHP com o Curso em Vídeo
+# PHP
+## Aprendendo PHP com o Curso em Vídeo
